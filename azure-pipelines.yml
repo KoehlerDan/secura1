@@ -17,6 +17,5 @@ variables:
 steps:
 - task: CmdLine@2
   inputs:
-    script: 'dir
-    build.cmd --imageName dk-demo --tagValue V7'
+    script: 'build.cmd --imageName dk-demo --tagValue V7'
     workingDirectory: 'DKWebApp'
