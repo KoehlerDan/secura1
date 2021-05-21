@@ -5,7 +5,7 @@
     script: |
       # Write your PowerShell commands here.
       
-      nuke --imageName dk-demo --tagValue V6 --dockerFile true
+      nuke --imageName dk-demo --tagValue V7 --dockerFile true
 # Start with a minimal pipeline that you can customize to build and deploy your code.
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
