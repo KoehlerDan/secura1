@@ -15,10 +15,9 @@ variables:
   buildConfiguration: 'Release'
 
 steps:
-
-- task: PowerShell@2
+- task: CmdLine@2
   inputs:
     script: |
-      # Write your PowerShell commands here.
+      echo Write your commands here
       
-      ./build.cmd --imageName dk-demo --tagValue V7 --dockerfile true
+      ./build.cmd --imageName dk-demo --tagValue V7 --dockerFile true
