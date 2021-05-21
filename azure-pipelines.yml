@@ -17,4 +17,5 @@ variables:
 steps:
 - task: CmdLine@2
   inputs:
-    script:  'build.cmd --imageName dk-demo --tagValue V7 --dockerFile true'
+    script:  dir
+             build.cmd --imageName dk-demo --tagValue V7 --dockerFile true
