@@ -52,7 +52,7 @@ job "dk-demo" {
       }
       driver = "docker"
       config {
-        image = "securanonprod.azurecr.io/dk-demo:V6"
+        image = "securanonprod.azurecr.io/dk-demo:V7"
 
         auth {
           username = USER_NAME
