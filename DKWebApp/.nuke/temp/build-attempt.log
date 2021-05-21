@@ -1,0 +1,10 @@
+dc34a91b9d0d614cdb29c73fc7d6c092
+Clean
+Restore
+Compile
+ACR_Login
+Docker_Build
+Docker_Tag
+Docker_Push
+Post_Template
+Deploy_Nomad

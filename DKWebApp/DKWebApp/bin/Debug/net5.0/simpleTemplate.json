@@ -1,0 +1,17 @@
+{
+  "job_Name": "dk-demo",
+  "job_Count": 1,
+  "port": 8080,
+  "image": "securanonprod.azurecr.io/dk-demo:V5",
+  "health_Path": "/health",
+  "base_Route": "SecuraWebApp",
+  "tags": {
+    "type": "webApp",
+    "owners": "dk",
+    "version": "v4",
+    "language": "dotnet",
+    "env": "Dev",
+    "releaseType": "Canary",
+    "partOf": "Nothing"
+  }
+}

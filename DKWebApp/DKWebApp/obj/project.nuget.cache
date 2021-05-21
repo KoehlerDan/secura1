@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ppVTtT/Kxyr8VCH3f6qyLodiE3bKHxPCBxnm/LWmJc1zb2qWKbnys8BndXHCaAt0WdbvlP1rrMA34O9Cauk3Gg==",
+  "success": true,
+  "projectFilePath": "C:\\sandbox\\DKWebApp\\DKWebApp\\DKWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\da03539\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
+    "C:\\Users\\da03539\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
